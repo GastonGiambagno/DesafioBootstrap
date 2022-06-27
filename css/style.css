@@ -1,0 +1,33 @@
+body {
+    background-image: url(../multimedia/imagen-master1.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+main {
+    padding-top: 2rem;
+}
+
+#contenainer_divs_segundorow_main {
+    background-color: rgba(46, 46, 46, 0.658);
+    border-radius: 0.5rem;
+    color: white;
+    margin: 1rem;
+}
+
+#contenainer_divs_segundorow_main p {
+    padding: 0 1rem;
+}
+
+#contenainer_divs_segundorow_main h3 {
+    padding-top: 1rem;
+}
+
+#contenainer_divs_segundorow_main img {
+    margin-top: 1rem;
+}
+
+footer img {
+    margin-left: 1rem;
+}
